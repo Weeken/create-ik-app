@@ -1,0 +1,21 @@
+{
+  "name": "create-ik-app",
+  "version": "0.0.3",
+  "license": "MIT",
+  "author": "Weeken Gao",
+  "bin": {
+    "create-ik-app": "index.js",
+    "cva": "index.js"
+  },
+  "files": [
+    "index.js",
+    "templates"
+  ],
+  "main": "index.js",
+  "engines": {
+    "node": ">=12.0.0"
+  },
+  "dependencies": {
+    "inquirer": "^8.0.0"
+  }
+}
