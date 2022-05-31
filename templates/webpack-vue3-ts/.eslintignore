@@ -1,4 +1,9 @@
-/dist/
-/static/
-/node_modules/
-/*.json
+node_modules
+/public
+dist
+.husky
+.vscode
+*.md
+*.d.ts
+package-lock.json
+yarn.lock

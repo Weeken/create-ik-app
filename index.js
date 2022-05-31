@@ -136,7 +136,7 @@ async function init() {
       message: 'select your framework',
       type: 'list',
       choices: ['vue2', 'vue3'],
-      default: 'vue2'
+      default: 'vue3'
     }
   ])
 

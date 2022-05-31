@@ -1,0 +1,9 @@
+{
+	"recommendations": [
+		"johnsoncodehk.volar",
+		"dbaeumer.vscode-eslint",
+		"esbenp.prettier-vscode",
+		"pmneo.tsimporter",
+		"christian-kohler.path-intellisense"
+	]
+}
